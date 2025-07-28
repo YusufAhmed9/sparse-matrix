@@ -28,7 +28,7 @@ This project includes a basic implementation of sparse matrix operations:
 
 -  **Setting and getting values**
 -  **Adding two matrices (with the same size)**
--  
+
 ### Example Diagram
 
 ![Sparse Matrix Diagram](https://media.geeksforgeeks.org/wp-content/uploads/Sparse-Matrix-Array-Representation1.png)
